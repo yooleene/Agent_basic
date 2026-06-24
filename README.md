@@ -147,3 +147,12 @@ Stop-Process -Id (Get-NetTCPConnection -LocalPort 5000).OwningProcess -Force
 
 
 ```
+
+
+## 7. 종합실습 : 설치 되어 있는 라이브러리 추출
+
+```text
+
+ pip freeze >> requirements.txt
+
+```
