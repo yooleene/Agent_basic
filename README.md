@@ -156,3 +156,11 @@ Stop-Process -Id (Get-NetTCPConnection -LocalPort 5000).OwningProcess -Force
  pip freeze >> requirements.txt
 
 ```
+
+```text
+
+requirements.txt에 있는 라이브러리를 활용하여 첨부처럼 코드 구현
+
+```
+
+
