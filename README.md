@@ -135,14 +135,14 @@ https://search.naver.com/search.naver?where=news&query=삼성전자
 - JSON
 ```text
 https://api.github.com/users/torvalds
-```text
+```
 
 
 
 - JSON 비교
 ```text
 https://github.com/torvalds
-```text
+```
 
 
 - 서버 실행 방법
