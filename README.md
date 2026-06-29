@@ -271,8 +271,12 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
 ## 6. 바이브코딩 스킬 활용
 - 실습할 폴더 생성
 - grill me, to-prd, diagnose 스킬 설치
+ ```text
+/find-skills grill me, to-prd, diagnose를 찾아서 현재 프로젝트 폴더에 설치해줘
+```
 - 커서 실행(or 재시작) : Plan 모드
 - 아이디어 구체화
+
 ```text
 /grill-me 주제 입력(예:달력이 있는 일정관리 앱을 만들고 싶어)
 ```
