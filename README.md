@@ -270,10 +270,6 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
 
 ## 6. 바이브코딩 스킬 활용
 - 실습할 폴더 생성
-- grill me, to-prd, diagnose 스킬 설치
- ```text
-/find-skills grill me, to-prd, diagnose를 찾아서 현재 프로젝트 폴더에 설치해줘
-```
 - md 파일 작성 요청(프롬프트)
 ```text
 나는 "오늘의 할일" 앱을 만들 거야.
@@ -286,6 +282,10 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
 1. ui.md : 페이지 목록, 컴포넌트 구조, 색상·폰트 규칙
 2. architecture.md: 기술 스택, 폴더 구조, API 엔드포인트, DB 스키마
 3. prompts.md : AI 코딩 규칙, 자주 쓸 프롬프트 템플릿
+```
+- grill me, to-prd, diagnose 스킬 설치
+ ```text
+/find-skills grill me, to-prd, diagnose를 찾아서 현재 프로젝트 폴더에 설치해줘
 ```
 
 - 커서 실행(or 재시작) : Plan 모드
