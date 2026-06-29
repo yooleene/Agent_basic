@@ -274,6 +274,20 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
  ```text
 /find-skills grill me, to-prd, diagnose를 찾아서 현재 프로젝트 폴더에 설치해줘
 ```
+- md 파일 작성 요청(프롬프트)
+```text
+나는 "오늘의 할일" 앱을 만들 거야.
+기능: 할일 추가, 완료 체크, 삭제, 카테고리(업무/개인/공부) 분류, 마감일 설정
+- Backend: Python Flask
+- Frontend: 순수 HTML + CSS + JavaScript
+- Database: SQLite3
+아래 3개 MD 파일 초안을 각각 작성해줘.
+파일에 바로 붙여넣을 수 있게 마크다운 형식으로, 구체적으로 작성해줘.
+1. ui.md : 페이지 목록, 컴포넌트 구조, 색상·폰트 규칙
+2. architecture.md: 기술 스택, 폴더 구조, API 엔드포인트, DB 스키마
+3. prompts.md : AI 코딩 규칙, 자주 쓸 프롬프트 템플릿
+```
+
 - 커서 실행(or 재시작) : Plan 모드
 - 아이디어 구체화
 
