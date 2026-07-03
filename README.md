@@ -302,10 +302,6 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
 2. architecture.md: 기술 스택, 폴더 구조, API 엔드포인트, DB 스키마
 3. prompts.md : AI 코딩 규칙, 자주 쓸 프롬프트 템플릿
 ```
-- grill me, to-prd, diagnose 스킬 설치
- ```text
-/find-skills grill me, to-prd, diagnose를 찾아서 현재 프로젝트 폴더에 설치해줘
-```
 
 - 커서 실행(or 재시작) : Plan 모드
 - 아이디어 구체화
@@ -321,10 +317,7 @@ PDF파일을 업로드하면 번역해주는 앱을 만들고 싶어
 ```text
 PRD를 기준으로 일정관리 달력 웹앱을 구현해줘.
 ```
-*** 오류 발생시 ***
-```text
-/diagnose 오류 내용 입력, 콘솔 오류와 코드를 함께 분석해서 원인을 찾아주세요.
-```
+
 
 
 ## 9. RAG 구현
